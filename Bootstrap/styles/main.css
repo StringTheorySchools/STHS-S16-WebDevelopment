@@ -5964,3 +5964,13 @@ td.visible-print {
   margin: 50px auto 0 auto;
 }
 /*# sourceMappingURL=/styles/main.css.map */
+
+
+#hello {
+  background-color: green;
+}
+
+#home {
+  background-color: red;
+  color: blue;
+}
